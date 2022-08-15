@@ -73,7 +73,7 @@ def constructMessage():
     return message
 
 def main():
-    message=constructMessage()
+    message = constructMessage()
     print(message)
     text(message)
 
