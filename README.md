@@ -4,5 +4,5 @@ This program will compile the users YouTube channel and videos, Instagram, and T
 
 Implementation for automatic web scraping and form submission using Selenium, and outgoing text messages through the Twilio API
 
-![](https://github.com/taseenw/Social-Media-SMS-Bot/blob/main/output.jpg?raw=true | width=100)
+![](https://github.com/taseenw/Social-Media-SMS-Bot/blob/main/output.jpg | width=100)
 
